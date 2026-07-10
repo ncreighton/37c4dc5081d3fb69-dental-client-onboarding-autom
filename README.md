@@ -1,0 +1,2 @@
+# 37c4dc5081d3fb69-dental-client-onboarding-autom
+The dental tool you'd build yourself — if you had the time.  Built for production: error handling, retry logic, and failure notifications included. Connects to 400+ apps via n8n's built-in integrations — no custom code needed.  ## What's Included  - Dental Client Onboarding — fully configured and ready to use - Pre-built n8n workflow — import and r
